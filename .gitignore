@@ -1,0 +1,9 @@
+# Nunca versionar datos ni notebooks del cliente
+*.ipynb
+*.csv
+*.parquet
+*.pdf
+images/
+.env
+.venv/
+__pycache__/
